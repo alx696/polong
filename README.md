@@ -20,7 +20,7 @@
 
 ### Web
 
-[项目链接](https://github.com/alx696/polong-web)，开发语言JavaScript,html,css，提供浏览器和桌面端的界面。
+[项目链接](https://github.com/alx696/polong-web)，开发语言js、html、css，提供浏览器和桌面端的界面。
 
 ### 桌面端
 
